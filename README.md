@@ -410,3 +410,5 @@ The project provides practical experience in socket programming, networking, con
 3. Python Documentation – Unit Testing: https://docs.python.org/3/library/unittest.html
 4. RFC 9293 – Transmission Control Protocol (TCP): https://www.rfc-editor.org/rfc/rfc9293
 5. Kurose, J. F., and Ross, K. W., *Computer Networking: A Top-Down Approach*.
+# Python-Load-Balance
+A multithreaded TCP load balancer implemented using Python socket programming. The system distributes incoming client requests across multiple backend servers using the **Round Robin scheduling algorithm** and provides backend health monitoring, automatic failover, server recovery detection, and request statistics.
