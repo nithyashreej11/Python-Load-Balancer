@@ -141,11 +141,11 @@ If a backend connection fails:
 
 ### Request Processing Flowchart
 
-![Request Processing Flowchart](docs/request_flowchart.png)
+![Request Processing Flowchart](docs/request_processing_flowchart.png)
 
 ### Health Checking Flowchart
 
-![Health Checking Flowchart](docs/health_check_flowchart.png)
+![Health Checking Flowchart](docs/health_checking_flowchart.png)
 
 ## 7. Project Structure
 
